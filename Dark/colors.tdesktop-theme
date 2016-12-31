@@ -103,11 +103,7 @@ radialBg: #ff0000;
 
 placeholderFg: arcDarkText;
 placeholderFgActive: arcDarkTextDark;
-
-// ???
-inputBorderFg: #ff0000;
-// ???
-
+inputBorderFg: arcDarkTextDark;
 filterInputBorderFg: arcDarkText;
 checkboxFg: arcDarkText;
 sliderBgInactive: arcDarkTextDark;
@@ -249,17 +245,17 @@ historyOutIconFgSelected: arcDarkText;
 historyIconFgInverted: arcDarkText;
 historySendingOutIconFg: arcDarkHighlight;
 historySendingInIconFg: arcDarkHighlight;
+historySendingInvertedIconFg: arcDarkHighlight;
 
 // ???
-historySendingInvertedIconFg: #ff0000;
 historySystemBg: #ff0000;
 historySystemBgSelected: #ff0000;
 historySystemFg: #ff0000;
-historyUnreadBarBg: #ff0000;
-historyUnreadBarBorder: #ff0000;
-historyUnreadBarFg: #00ff00;
 // ???
 
+historyUnreadBarBg: arcDarkWindow;
+historyUnreadBarBorder: arcDarkWindow;
+historyUnreadBarFg: arcDarkText;
 historyForwardChooseBg: #0000004c;
 historyForwardChooseFg: arcDarkText;
 historyPeer1NameFg: arcDarkHighlight;
