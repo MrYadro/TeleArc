@@ -38,7 +38,6 @@ arcDarkScroll: #767b87;
 arcDarkScrollHighlight: #8f939d;
 arcDarkScrollBg: #696f7a;
 
-
 //
 
 windowBg: arcDarkWindow;
@@ -110,7 +109,7 @@ inputBorderFg: #ff0000;
 // ???
 
 filterInputBorderFg: arcDarkText;
-checkboxFg: arcDarkHighlight;
+checkboxFg: arcDarkText;
 sliderBgInactive: arcDarkTextDark;
 sliderBgActive: arcDarkHighlight;
 
@@ -310,12 +309,8 @@ msgInReplyBarSelColor: arcDarkText;
 msgOutReplyBarColor: arcDarkHighlight;
 msgOutReplyBarSelColor: arcDarkText;
 msgImgReplyBarColor: arcDarkText;
-
-// ???
-msgInMonoFg: #ff0000;
-msgOutMonoFg: #ff0000;
-// ???
-
+msgInMonoFg: arcDarkHighlight;
+msgOutMonoFg: arcDarkHighlight;
 msgDateImgFg: arcDarkText;
 msgDateImgBg: #00000054;
 msgDateImgBgOver: #00000074;
