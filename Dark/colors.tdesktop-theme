@@ -1,0 +1,435 @@
+//
+// This is a sample Telegram Desktop theme file.
+// It was generated from the 'colors.palette' style file.
+//
+// To create a theme with a background image included you should
+// put two files in a .zip archive:
+//
+// First one is the color scheme like the one you're viewing
+// right now, this file should be named 'colors.tdesktop-theme'.
+//
+// Second one should be the background image and it can be named
+// 'background.jpg', 'background.png', 'tiled.jpg' or 'tiled.png'.
+// You should name it 'background' (if you'd like it not to be tiled),
+// or it can be named 'tiled' (if you'd like it to be tiled).
+//
+// After that you need to change the extension of your .zip archive
+// to 'tdesktop-theme', so you'll have:
+//
+// mytheme.tdesktop-theme
+// |-colors.tdesktop-theme
+// |-background.jpg (or tiled.jpg, background.png, tiled.png)
+//
+
+arcDarkWindow: #383C4A;
+arcDarkButton: #444A58;
+arcDarkButtonHighlight: #505666;
+arcDarkButtonClose: #cc575d;
+arcDarkButtonCloseHighlight: #d7787d;
+arcDarkLight: #404552;
+arcDarkDark: #2F343F;
+arcDarkHighlight: #5294E2;
+arcDarkHighlightDark: #2E3340;
+arcDarkInHighlight: #4877B1;
+arcDarkText: #d3dae3;
+arcDarkTextDark: #898d99;
+arcDarkLink: #4877B1;
+arcDarkScroll: #767b87;
+arcDarkScrollHighlight: #8f939d;
+arcDarkScrollBg: #696f7a;
+
+
+//
+
+windowBg: arcDarkWindow;
+windowFg: arcDarkText;
+windowBgOver: arcDarkLight;
+windowBgRipple: arcDarkHighlight;
+windowFgOver: arcDarkText;
+windowSubTextFg: arcDarkTextDark;
+windowSubTextFgOver: arcDarkText;
+windowBoldFg: arcDarkText;
+windowBoldFgOver: arcDarkText;
+windowBgActive: arcDarkHighlight;
+windowFgActive: arcDarkText;
+windowActiveTextFg: arcDarkText;
+windowShadowFg: #000000;
+windowShadowFgFallback: #f1f1f1;
+shadowFg: #00000018;
+slideFadeOutBg: #0000003c;
+slideFadeOutShadowFg: windowShadowFg;
+imageBg: arcDarkWindow;
+imageBgTransparent: arcDarkWindow;
+activeButtonBg: arcDarkButton;
+activeButtonBgOver: arcDarkButtonHighlight;
+activeButtonBgRipple: arcDarkHighlight;
+activeButtonFg: arcDarkText;
+activeButtonFgOver: arcDarkText;
+activeButtonSecondaryFg: arcDarkText;
+activeButtonSecondaryFgOver: arcDarkText;
+activeLineFg: arcDarkText;
+activeLineFgError: arcDarkText;
+lightButtonBg: arcDarkButton;
+lightButtonBgOver: arcDarkButtonHighlight;
+lightButtonBgRipple: arcDarkHighlight;
+lightButtonFg: arcDarkText;
+lightButtonFgOver: arcDarkText;
+attentionButtonFg: arcDarkText;
+attentionButtonFgOver: arcDarkText;
+attentionButtonBgOver: arcDarkButtonHighlight;
+attentionButtonBgRipple: arcDarkHighlight;
+outlineButtonBg: arcDarkButton;
+outlineButtonBgOver: arcDarkButtonHighlight;
+outlineButtonOutlineFg: arcDarkHighlight;
+outlineButtonBgRipple: arcDarkHighlight;
+menuBg: arcDarkWindow;
+menuBgOver: arcDarkLight;
+menuBgRipple: arcDarkHighlight;
+menuIconFg: arcDarkText;
+menuIconFgOver: arcDarkText;
+menuSubmenuArrowFg: arcDarkText;
+menuFgDisabled: arcDarkTextDark;
+menuSeparatorFg: arcDarkWindow;
+scrollBarBg: arcDarkScroll;
+scrollBarBgOver: arcDarkScrollHighlight;
+scrollBg: arcDarkScrollBg;
+scrollBgOver: arcDarkScrollBg;
+smallCloseIconFg: arcDarkText;
+smallCloseIconFgOver: arcDarkTextDark;
+
+// ???
+radialFg: #ff0000;
+radialBg: #ff0000;
+// ???
+
+placeholderFg: arcDarkText;
+placeholderFgActive: arcDarkTextDark;
+
+// ???
+inputBorderFg: #ff0000;
+// ???
+
+filterInputBorderFg: arcDarkText;
+checkboxFg: arcDarkHighlight;
+sliderBgInactive: arcDarkTextDark;
+sliderBgActive: arcDarkHighlight;
+
+// ???
+tooltipBg: #ff0000;
+tooltipFg: #ff0000;
+tooltipBorderFg: #ff0000;
+// ???
+
+titleBg: arcDarkWindow;
+titleShadow: #00000003;
+titleButtonFg: arcDarkText;
+titleButtonBgOver: arcDarkButtonHighlight;
+titleButtonFgOver: arcDarkText;
+titleButtonCloseBgOver: arcDarkButtonCloseHighlight;
+titleButtonCloseFgOver: arcDarkText;
+titleFgActive: arcDarkText;
+titleFg: arcDarkTextDark;
+
+// ???
+trayCounterBg: #ff0000;
+trayCounterBgMute: #ff0000;
+trayCounterFg: #ff0000;
+trayCounterBgMacInvert: #ff0000;
+trayCounterFgMacInvert: #ff0000;
+// ???
+
+layerBg: #0000007f;
+cancelIconFg: arcDarkText;
+cancelIconFgOver: arcDarkTextDark;
+boxBg: arcDarkWindow;
+boxTextFg: arcDarkText;
+boxTextFgGood: arcDarkText;
+boxTextFgError: arcDarkText;
+boxTitleFg: arcDarkText;
+boxSearchBg: arcDarkWindow;
+boxSearchCancelIconFg: arcDarkText;
+boxSearchCancelIconFgOver: arcDarkTextDark;
+boxTitleAdditionalFg: #ff0000;
+boxTitleCloseFg: arcDarkText;
+boxTitleCloseFgOver: arcDarkTextDark;
+
+// ???
+membersAboutLimitFg: #ff0000;
+// ???
+
+contactsBg: arcDarkWindow;
+contactsBgOver: arcDarkLight;
+contactsNameFg: arcDarkText;
+contactsStatusFg: arcDarkTextDark;
+contactsStatusFgOver: arcDarkText;
+contactsStatusFgOnline: arcDarkTextDark;
+photoCropFadeBg: layerBg;
+photoCropPointFg: #ffffff7f;
+
+// ???
+introBg: arcDarkWindow;
+introTitleFg: arcDarkText;
+introDescriptionFg: arcDarkTextDark;
+introErrorFg: arcDarkTextDark;
+introCoverTopBg: #0f89d0;
+introCoverBottomBg: #39b0f0;
+introCoverIconsFg: #5ec6ff;
+introCoverPlaneTrace: #5ec6ff69;
+introCoverPlaneInner: #c6d8e8;
+introCoverPlaneOuter: #a1bed4;
+introCoverPlaneTop: #ffffff;
+// ???
+
+dialogsMenuIconFg: arcDarkText;
+dialogsarcDarkHighlight: arcDarkText;
+dialogsBg: arcDarkWindow;
+dialogsNameFg: arcDarkText;
+dialogsChatIconFg: arcDarkText;
+dialogsDateFg: arcDarkTextDark;
+dialogsTextFg: arcDarkTextDark;
+dialogsTextFgService: arcDarkText;
+dialogsDraftFg: arcDarkText;
+dialogsVerifiedIconBg: arcDarkHighlight;
+dialogsVerifiedIconFg: arcDarkText;
+dialogsSendingIconFg: #c1c1c1;
+dialogsSentIconFg: arcDarkHighlight;
+dialogsUnreadBg: arcDarkHighlight;
+dialogsUnreadBgMuted: #bbbbbb;
+dialogsUnreadFg: arcDarkText;
+dialogsBgOver: arcDarkLight;
+dialogsNameFgOver: windowBoldFgOver;
+dialogsChatIconFgOver: dialogsNameFgOver;
+dialogsDateFgOver: arcDarkText;
+dialogsTextFgOver: arcDarkText;
+dialogsTextFgServiceOver: dialogsTextFgService;
+dialogsDraftFgOver: dialogsDraftFg;
+dialogsVerifiedIconBgOver: dialogsVerifiedIconBg;
+dialogsVerifiedIconFgOver: dialogsVerifiedIconFg;
+dialogsSendingIconFgOver: dialogsSendingIconFg;
+dialogsSentIconFgOver: arcDarkHighlight;
+dialogsUnreadBgOver: dialogsUnreadBg;
+dialogsUnreadBgMutedOver: dialogsUnreadBgMuted;
+dialogsUnreadFgOver: dialogsUnreadFg;
+dialogsBgActive: arcDarkHighlight;
+dialogsNameFgActive: arcDarkText;
+dialogsChatIconFgActive: dialogsNameFgActive;
+dialogsDateFgActive: arcDarkText;
+dialogsTextFgActive: arcDarkText;
+dialogsTextFgServiceActive: dialogsTextFgActive;
+dialogsDraftFgActive: #c6e1f7;
+dialogsVerifiedIconBgActive: dialogsTextFgActive;
+dialogsVerifiedIconFgActive: arcDarkHighlight;
+dialogsSendingIconFgActive: #ffffff99;
+dialogsSentIconFgActive: dialogsTextFgActive;
+dialogsUnreadBgActive: dialogsTextFgActive;
+dialogsUnreadBgMutedActive: dialogsDraftFgActive;
+dialogsUnreadFgActive: arcDarkHighlight;
+dialogsForwardBg: arcDarkHighlight;
+dialogsForwardFg: dialogsNameFgActive;
+
+
+searchedBarBg: arcDarkLight;
+searchedBarBorder: shadowFg;
+searchedBarFg: arcDarkTextDark;
+topBarBg: arcDarkWindow;
+emojiPanBg: arcDarkWindow;
+emojiPanCategories: arcDarkWindow;
+emojiPanHeaderFg: arcDarkText;
+emojiPanHeaderBg: arcDarkWindow;
+stickerPanDeleteBg: #000000cc;
+stickerPanDeleteFg: arcDarkText;
+stickerPreviewBg: #000000b0;
+historyTextInFg: arcDarkText;
+historyTextOutFg: arcDarkText;
+historyCaptionInFg: arcDarkText;
+historyCaptionOutFg: arcDarkText;
+historyFileNameInFg: arcDarkText;
+historyFileNameOutFg: arcDarkText;
+historyOutIconFg: arcDarkHighlight;
+historyOutIconFgSelected: arcDarkText;
+historyIconFgInverted: arcDarkText;
+historySendingOutIconFg: arcDarkHighlight;
+historySendingInIconFg: arcDarkHighlight;
+
+// ???
+historySendingInvertedIconFg: #ff0000;
+historySystemBg: #ff0000;
+historySystemBgSelected: #ff0000;
+historySystemFg: #ff0000;
+historyUnreadBarBg: #ff0000;
+historyUnreadBarBorder: #ff0000;
+historyUnreadBarFg: #00ff00;
+// ???
+
+historyForwardChooseBg: #0000004c;
+historyForwardChooseFg: arcDarkText;
+historyPeer1NameFg: arcDarkHighlight;
+historyPeer1UserpicBg: arcDarkHighlight;
+historyPeer2NameFg: arcDarkHighlight;
+historyPeer2UserpicBg: arcDarkHighlight;
+historyPeer3NameFg: arcDarkHighlight;
+historyPeer3UserpicBg: arcDarkHighlight;
+historyPeer4NameFg: arcDarkHighlight;
+historyPeer4UserpicBg: arcDarkHighlight;
+historyPeer5NameFg: arcDarkHighlight;
+historyPeer5UserpicBg: arcDarkHighlight;
+historyPeer6NameFg: arcDarkHighlight;
+historyPeer6UserpicBg: arcDarkHighlight;
+historyPeer7NameFg: arcDarkHighlight;
+historyPeer7UserpicBg: arcDarkHighlight;
+historyPeer8NameFg: arcDarkHighlight;
+historyPeer8UserpicBg: arcDarkHighlight;
+historyPeerUserpicFg: arcDarkText;
+historyScrollBarBg: arcDarkScroll;
+historyScrollBarBgOver: arcDarkScrollHighlight;
+historyScrollBg: arcDarkScrollBg;
+historyScrollBgOver: arcDarkScrollBg;
+msgInBg: arcDarkWindow;
+msgInBgSelected: arcDarkHighlight;
+msgOutBg: arcDarkWindow;
+msgOutBgSelected: arcDarkHighlight;
+msgSelectOverlay: #358cd44c;
+msgStickerOverlay: #358cd47f;
+msgInServiceFg: arcDarkHighlight;
+msgInServiceFgSelected: arcDarkText;
+msgOutServiceFg: arcDarkHighlight;
+msgOutServiceFgSelected: arcDarkText;
+msgInShadow: arcDarkTextDark;
+msgInShadowSelected: arcDarkText;
+msgOutShadow: arcDarkTextDark;
+msgOutShadowSelected: arcDarkText;
+msgInDateFg: arcDarkHighlight;
+msgInDateFgSelected: arcDarkText;
+msgOutDateFg: arcDarkHighlight;
+msgOutDateFgSelected: arcDarkText;
+msgServiceFg: arcDarkText;
+msgServiceBg: arcDarkWindow;
+msgServiceBgSelected: arcDarkHighlight;
+msgInReplyBarColor: arcDarkText;
+msgInReplyBarSelColor: arcDarkText;
+msgOutReplyBarColor: arcDarkHighlight;
+msgOutReplyBarSelColor: arcDarkText;
+msgImgReplyBarColor: arcDarkText;
+
+// ???
+msgInMonoFg: #ff0000;
+msgOutMonoFg: #ff0000;
+// ???
+
+msgDateImgFg: arcDarkText;
+msgDateImgBg: #00000054;
+msgDateImgBgOver: #00000074;
+msgDateImgBgSelected: arcDarkHighlight;
+msgFileThumbLinkInFg: arcDarkHighlight;
+msgFileThumbLinkInFgSelected: arcDarkHighlight;
+msgFileThumbLinkOutFg: arcDarkHighlight;
+msgFileThumbLinkOutFgSelected: arcDarkHighlight;
+msgFileInBg: arcDarkHighlight;
+msgFileInBgOver: arcDarkText;
+msgFileInBgSelected: arcDarkText;
+msgFileOutBg: arcDarkHighlight;
+msgFileOutBgOver: arcDarkText;
+msgFileOutBgSelected: arcDarkText;
+msgFile1Bg: arcDarkHighlight;
+msgFile1BgDark: arcDarkText;
+msgFile1BgOver: arcDarkText;
+msgFile1BgSelected: arcDarkText;
+msgFile2Bg: arcDarkHighlight;
+msgFile2BgDark: arcDarkText;
+msgFile2BgOver: arcDarkText;
+msgFile2BgSelected: arcDarkText;
+msgFile3Bg: arcDarkHighlight;
+msgFile3BgDark: arcDarkText;
+msgFile3BgOver: arcDarkText;
+msgFile3BgSelected: arcDarkText;
+msgFile4Bg: arcDarkHighlight;
+msgFile4BgDark: arcDarkText;
+msgFile4BgOver: arcDarkText;
+msgFile4BgSelected: arcDarkText;
+msgWaveformInActive: arcDarkHighlight;
+msgWaveformInActiveSelected: arcDarkText;
+msgWaveformInInactive: arcDarkHighlightDark;
+msgWaveformInInactiveSelected: arcDarkText;
+msgWaveformOutActive: arcDarkHighlight;
+msgWaveformOutActiveSelected: arcDarkText;
+msgWaveformOutInactive: arcDarkHighlightDark;
+msgWaveformOutInactiveSelected: arcDarkText;
+msgBotKbOverBgAdd: #ffffff20;
+msgBotKbIconFg: arcDarkText;
+msgBotKbRippleBg: #00000020;
+mediaInFg: arcDarkHighlight;
+mediaInFgSelected: arcDarkText;
+mediaOutFg: arcDarkHighlight;
+mediaOutFgSelected: arcDarkText;
+youtubePlayIconBg: arcDarkText;
+youtubePlayIconFg: arcDarkText;
+videoPlayIconBg: #0000007f;
+videoPlayIconFg: #ffffff;
+toastBg: #000000b2;
+toastFg: arcDarkText;
+reportSpamBg: arcDarkWindow;
+reportSpamFg: arcDarkText;
+historyToDownShadow: #00000040;
+historyComposeAreaBg: arcDarkWindow;
+historyComposeAreaFg: arcDarkText;
+historyComposeAreaFgService: arcDarkHighlight;
+historyComposeIconFg: arcDarkText;
+historyComposeIconFgOver: arcDarkText;
+historySendIconFg: arcDarkHighlight;
+historySendIconFgOver: arcDarkHighlight;
+historyPinnedBg: arcDarkWindow;
+historyReplyBg: arcDarkWindow;
+historyReplyCancelFg: arcDarkText;
+historyReplyCancelFgOver: arcDarkTextDark;
+historyComposeButtonBg: arcDarkWindow;
+historyComposeButtonBgOver: arcDarkLight;
+historyComposeButtonBgRipple: arcDarkHighlight;
+overviewCheckBg: #00000040;
+overviewCheckFg: arcDarkWindow;
+overviewCheckFgActive: arcDarkWindow;
+overviewPhotoSelectOverlay: #40ace333;
+profileStatusFgOver: #7c99b2;
+notificationsBoxMonitorFg: arcDarkText;
+notificationsBoxScreenBg: arcDarkHighlight;
+notificationSampleUserpicFg: arcDarkHighlight;
+notificationSampleCloseFg: arcDarkText;
+notificationSampleTextFg: arcDarkText;
+notificationSampleNameFg: arcDarkHighlight;
+mainMenuBg: arcDarkWindow;
+mainMenuCoverBg: arcDarkHighlight;
+mainMenuCoverFg: arcDarkText;
+mediaPlayerBg: arcDarkWindow;
+mediaPlayerActiveFg: arcDarkHighlight;
+mediaPlayerInactiveFg: arcDarkTextDark;
+mediaPlayerDisabledFg: #9dd1ef;
+mediaviewFileBg: arcDarkWindow;
+mediaviewFileNameFg: arcDarkText;
+mediaviewFileSizeFg: arcDarkTextDark;
+mediaviewFileRedCornerFg: #d55959;
+mediaviewFileYellowCornerFg: #e8a659;
+mediaviewFileGreenCornerFg: #49a957;
+mediaviewFileBlueCornerFg: #599dcf;
+mediaviewFileExtFg: activeButtonFg;
+mediaviewMenuBg: #383838;
+mediaviewMenuBgOver: #505050;
+mediaviewMenuBgRipple: #676767;
+mediaviewMenuFg: arcDarkText;
+mediaviewBg: #222222eb;
+mediaviewVideoBg: imageBg;
+mediaviewControlBg: #0000003c;
+mediaviewControlFg: arcDarkText;
+mediaviewCaptionBg: #11111180;
+mediaviewCaptionFg: arcDarkText;
+mediaviewTextLinkFg: #91d9ff;
+mediaviewSaveMsgBg: toastBg;
+mediaviewSaveMsgFg: toastFg;
+mediaviewPlaybackActive: #c7c7c7;
+mediaviewPlaybackInactive: #252525;
+mediaviewPlaybackActiveOver: #ffffff;
+mediaviewPlaybackInactiveOver: #474747;
+mediaviewPlaybackProgressFg: #ffffffc7;
+mediaviewPlaybackIconFg: #c7c7c7;
+mediaviewPlaybackIconFgOver: #ffffff;
+mediaviewTransparentBg: #ffffff;
+mediaviewTransparentFg: #cccccc;
+notificationBg: arcDarkWindow;
