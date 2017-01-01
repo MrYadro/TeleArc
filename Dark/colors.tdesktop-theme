@@ -108,13 +108,9 @@ filterInputBorderFg: arcDarkText;
 checkboxFg: arcDarkText;
 sliderBgInactive: arcDarkTextDark;
 sliderBgActive: arcDarkHighlight;
-
-// ???
-tooltipBg: #ff0000;
-tooltipFg: #ff0000;
-tooltipBorderFg: #ff0000;
-// ???
-
+tooltipBg: arcDarkWindow;
+tooltipFg: arcDarkText;
+tooltipBorderFg: arcDarkText;
 titleBg: arcDarkWindow;
 titleShadow: #00000003;
 titleButtonFg: arcDarkText;
