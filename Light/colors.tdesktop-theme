@@ -121,15 +121,11 @@ titleButtonCloseBgOver: arcButtonCloseHighlight;
 titleButtonCloseFgOver: arcText;
 titleFgActive: arcText;
 titleFg: arcTextDark;
-
-// ???
-trayCounterBg: #ff0000;
-trayCounterBgMute: #ff0000;
-trayCounterFg: #ff0000;
-trayCounterBgMacInvert: #ff0000;
-trayCounterFgMacInvert: #ff0000;
-// ???
-
+trayCounterBg: arcHighlight;
+trayCounterBgMute: arcHighlight;
+trayCounterFg: arcTextLight;
+trayCounterBgMacInvert: arcHighlight;
+trayCounterFgMacInvert: arcTextLight;
 layerBg: #0000007f;
 cancelIconFg: arcText;
 cancelIconFgOver: arcTextDark;
