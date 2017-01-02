@@ -52,7 +52,7 @@ windowBoldFg: arcText;
 windowBoldFgOver: arcText;
 windowBgActive: arcHighlight;
 windowFgActive: arcText;
-windowActiveTextFg: arcText;
+windowActiveTextFg: arcHighlight;
 windowShadowFg: #000000;
 windowShadowFgFallback: #f1f1f1;
 shadowFg: #00000018;

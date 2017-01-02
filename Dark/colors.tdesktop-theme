@@ -51,7 +51,7 @@ windowBoldFg: arcDarkText;
 windowBoldFgOver: arcDarkText;
 windowBgActive: arcDarkHighlight;
 windowFgActive: arcDarkText;
-windowActiveTextFg: arcDarkText;
+windowActiveTextFg: arcDarkHighlight;
 windowShadowFg: #000000;
 windowShadowFgFallback: #f1f1f1;
 shadowFg: #00000018;
