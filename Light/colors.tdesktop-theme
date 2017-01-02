@@ -192,7 +192,7 @@ dialogsTextFgOver: arcText;
 dialogsTextFgServiceOver: arcText;
 dialogsDraftFgOver: arcText;
 dialogsVerifiedIconBgOver: arcHighlight;
-dialogsVerifiedIconFgOver: arcHighlight;
+dialogsVerifiedIconFgOver: arcText;
 dialogsSendingIconFgOver: #c1c1c1;
 dialogsSentIconFgOver: arcHighlight;
 dialogsUnreadBgOver: arcHighlight;

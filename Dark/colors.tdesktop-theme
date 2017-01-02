@@ -191,7 +191,7 @@ dialogsTextFgOver: arcDarkText;
 dialogsTextFgServiceOver: arcDarkText;
 dialogsDraftFgOver: arcDarkText;
 dialogsVerifiedIconBgOver: arcDarkHighlight;
-dialogsVerifiedIconFgOver: arcDarkHighlight;
+dialogsVerifiedIconFgOver: arcDarkText;
 dialogsSendingIconFgOver: #c1c1c1;
 dialogsSentIconFgOver: arcDarkHighlight;
 dialogsUnreadBgOver: arcDarkHighlight;
