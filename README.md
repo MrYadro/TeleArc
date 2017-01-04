@@ -1,6 +1,6 @@
 # TeleArc - Arc theme for [Telegram Desktop][telegram_desktop]
 Telegram port of popular [Arc GTK][arc_gtk]  
-Based on [Ark KDE][arc_kde]
+Based on [Arc KDE][arc_kde]
 
 # Preview
 ## Light (Arc)
