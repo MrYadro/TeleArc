@@ -9,7 +9,7 @@ Based on [Ark KDE][arc_kde]
 ![Dark preview][telearc_dark]
 
 # Dependencies
-- `zip` for builing
+- `zip` for building
 
 # Installation
 1. Make sure you have latest [Telegram Desktop][telegram_desktop] (for now you have to use alpha version)
