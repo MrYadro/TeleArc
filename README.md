@@ -1,12 +1,15 @@
-# TeleArc - Arc theme for Telegram
-Telegram port of popular Arc theme.
+# TeleArc - Arc theme for [Telegram Desktop][telegram_desktop]
+Telegram port of popular [Arc theme][arc_gtk]  
+Based on [Ark Kde][arc_kde]
 
-Based on https://github.com/PapirusDevelopmentTeam/arc-kde
-
+# Preview
 ## Light (Arc)
-![Light preview](https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png)
+![Light preview][telearc_light]
 ## Dark (Arc Dark)
-![Dark preview](https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png)
+![Dark preview][telearc_dark]
 
-# License
-GNU GPL v3
+[telegram_desktop]: https://desktop.telegram.org
+[telearc_light]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png
+[telearc_dark]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png
+[arc_gtk]: https://github.com/horst3180/arc-theme
+[arc_kde]: https://github.com/PapirusDevelopmentTeam/arc-kde
