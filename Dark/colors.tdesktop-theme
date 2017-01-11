@@ -105,7 +105,8 @@ placeholderFg: arcDarkText;
 placeholderFgActive: arcDarkTextDark;
 inputBorderFg: arcDarkTextDark;
 filterInputBorderFg: arcDarkText;
-checkboxFg: arcDarkText;
+filterInputInactiveBg: arcDarkLight;
+checkboxFg: arcDarkButton;
 sliderBgInactive: arcDarkTextDark;
 sliderBgActive: arcDarkHighlight;
 tooltipBg: arcDarkWindow;
@@ -213,8 +214,6 @@ dialogsUnreadBgMutedActive: #c6e1f7;
 dialogsUnreadFgActive: arcDarkHighlight;
 dialogsForwardBg: arcDarkHighlight;
 dialogsForwardFg: arcDarkText;
-
-
 searchedBarBg: arcDarkLight;
 searchedBarBorder: #00000018;
 searchedBarFg: arcDarkTextDark;
@@ -329,6 +328,20 @@ msgFile4Bg: arcDarkHighlight;
 msgFile4BgDark: arcDarkText;
 msgFile4BgOver: arcDarkText;
 msgFile4BgSelected: arcDarkText;
+
+historyFileInIconFg: #ff0000;
+historyFileInIconFgSelected: #ff0000;
+historyFileInRadialFg: #ff0000;
+historyFileInRadialFgSelected: #ff0000;
+historyFileOutIconFg: #ff0000;
+historyFileOutIconFgSelected: #ff0000;
+historyFileOutRadialFg: #ff0000;
+historyFileOutRadialFgSelected: #ff0000;
+historyFileThumbIconFg: #ff0000;
+historyFileThumbIconFgSelected: #ff0000;
+historyFileThumbRadialFg: #ff0000;
+historyFileThumbRadialFgSelected: #ff0000;
+
 msgWaveformInActive: arcDarkHighlight;
 msgWaveformInActiveSelected: arcDarkText;
 msgWaveformInInactive: arcDarkHighlightDark;
