@@ -163,7 +163,7 @@ introCoverPlaneInner: arcDarkerTextDark;
 introCoverPlaneOuter: arcDarkerButton;
 introCoverPlaneTop: arcDarkerText;
 dialogsMenuIconFg: arcDarkerText;
-dialogsarcDarkerHighlight: arcDarkerText;
+dialogsMenuIconFgOver: arcDarkerText;
 dialogsBg: arcDarkerWindow;
 dialogsNameFg: arcDarkerText;
 dialogsChatIconFg: arcDarkerText;
@@ -230,7 +230,7 @@ historyOutIconFgSelected: arcDarkerChatText;
 historyIconFgInverted: arcDarkerChatText;
 historySendingOutIconFg: arcDarkerHighlight;
 historySendingInIconFg: arcDarkerHighlight;
-historySendingInvertedIconFg: arcDarkerHighlight;
+historySendingInvertedIconFg: arcDarkerText;
 
 // ???
 historySystemBg: #ff0000;
