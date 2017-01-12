@@ -1,4 +1,4 @@
-# TeleArc - Arc theme for [Telegram Desktop][telegram_desktop]
+# [@TeleArc][telegram_channel] - Arc theme for [Telegram Desktop][telegram_desktop]
 Telegram port of popular [Arc GTK][arc_gtk]  
 Based on [Arc KDE][arc_kde]
 
