@@ -95,12 +95,8 @@ scrollBg: arcDarkScrollBg;
 scrollBgOver: arcDarkScrollBg;
 smallCloseIconFg: arcDarkText;
 smallCloseIconFgOver: arcDarkTextDark;
-
-// ???
-radialFg: #ff0000;
-radialBg: #ff0000;
-// ???
-
+radialFg: arcDarkWindow;
+radialBg: arcDarkHighlight;
 placeholderFg: arcDarkText;
 placeholderFgActive: arcDarkTextDark;
 inputBorderFg: arcDarkTextDark;
