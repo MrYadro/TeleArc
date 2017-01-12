@@ -154,21 +154,17 @@ contactsStatusFgOver: arcText;
 contactsStatusFgOnline: arcTextDark;
 photoCropFadeBg: arcWindow;
 photoCropPointFg: #ffffff7f;
-
-// ???
 introBg: arcWindow;
 introTitleFg: arcText;
 introDescriptionFg: arcTextDark;
 introErrorFg: arcTextDark;
-introCoverTopBg: #0f89d0;
-introCoverBottomBg: #39b0f0;
-introCoverIconsFg: #5ec6ff;
-introCoverPlaneTrace: #5ec6ff69;
-introCoverPlaneInner: #c6d8e8;
-introCoverPlaneOuter: #a1bed4;
-introCoverPlaneTop: #ffffff;
-// ???
-
+introCoverTopBg: arcWindow;
+introCoverBottomBg: arcWindow;
+introCoverIconsFg: arcText;
+introCoverPlaneTrace: arcHighlight;
+introCoverPlaneInner: arcText;
+introCoverPlaneOuter: arcDark;
+introCoverPlaneTop: arcTextDark;
 dialogsMenuIconFg: arcText;
 dialogsarcHighlight: arcText;
 dialogsBg: arcWindow;
@@ -332,18 +328,18 @@ msgFile4BgDark: arcText;
 msgFile4BgOver: arcText;
 msgFile4BgSelected: arcText;
 
-historyFileInIconFg: #ff0000;
-historyFileInIconFgSelected: #ff0000;
-historyFileInRadialFg: #ff0000;
-historyFileInRadialFgSelected: #ff0000;
-historyFileOutIconFg: #ff0000;
-historyFileOutIconFgSelected: #ff0000;
-historyFileOutRadialFg: #ff0000;
-historyFileOutRadialFgSelected: #ff0000;
-historyFileThumbIconFg: #ff0000;
-historyFileThumbIconFgSelected: #ff0000;
-historyFileThumbRadialFg: #ff0000;
-historyFileThumbRadialFgSelected: #ff0000;
+historyFileInIconFg: arcWindow;
+historyFileInIconFgSelected: arcHighlight;
+historyFileInRadialFg: arcWindow;
+historyFileInRadialFgSelected: arcWindow;
+historyFileOutIconFg: arcWindow;
+historyFileOutIconFgSelected: arcHighlight;
+historyFileOutRadialFg: arcWindow;
+historyFileOutRadialFgSelected: arcWindow;
+historyFileThumbIconFg: arcWindow;
+historyFileThumbIconFgSelected: arcHighlight;
+historyFileThumbRadialFg: arcWindow;
+historyFileThumbRadialFgSelected: arcWindow;
 
 msgWaveformInActive: arcHighlight;
 msgWaveformInActiveSelected: arcText;

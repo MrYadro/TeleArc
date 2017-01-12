@@ -153,21 +153,17 @@ contactsStatusFgOver: arcDarkText;
 contactsStatusFgOnline: arcDarkTextDark;
 photoCropFadeBg: arcDarkWindow;
 photoCropPointFg: #ffffff7f;
-
-// ???
 introBg: arcDarkWindow;
 introTitleFg: arcDarkText;
 introDescriptionFg: arcDarkTextDark;
 introErrorFg: arcDarkTextDark;
-introCoverTopBg: #0f89d0;
-introCoverBottomBg: #39b0f0;
-introCoverIconsFg: #5ec6ff;
-introCoverPlaneTrace: #5ec6ff69;
-introCoverPlaneInner: #c6d8e8;
-introCoverPlaneOuter: #a1bed4;
-introCoverPlaneTop: #ffffff;
-// ???
-
+introCoverTopBg: arcDarkWindow;
+introCoverBottomBg: arcDarkWindow;
+introCoverIconsFg: arcDarkText;
+introCoverPlaneTrace: arcDarkHighlight;
+introCoverPlaneInner: arcDarkTextDark;
+introCoverPlaneOuter: arcDarkButton;
+introCoverPlaneTop: arcDarkText;
 dialogsMenuIconFg: arcDarkText;
 dialogsarcDarkHighlight: arcDarkText;
 dialogsBg: arcDarkWindow;
@@ -328,20 +324,18 @@ msgFile4Bg: arcDarkHighlight;
 msgFile4BgDark: arcDarkText;
 msgFile4BgOver: arcDarkText;
 msgFile4BgSelected: arcDarkText;
-
-historyFileInIconFg: #ff0000;
-historyFileInIconFgSelected: #ff0000;
-historyFileInRadialFg: #ff0000;
-historyFileInRadialFgSelected: #ff0000;
-historyFileOutIconFg: #ff0000;
-historyFileOutIconFgSelected: #ff0000;
-historyFileOutRadialFg: #ff0000;
-historyFileOutRadialFgSelected: #ff0000;
-historyFileThumbIconFg: #ff0000;
-historyFileThumbIconFgSelected: #ff0000;
-historyFileThumbRadialFg: #ff0000;
-historyFileThumbRadialFgSelected: #ff0000;
-
+historyFileInIconFg: arcDarkWindow;
+historyFileInIconFgSelected: arcDarkHighlight;
+historyFileInRadialFg: arcDarkWindow;
+historyFileInRadialFgSelected: arcDarkWindow;
+historyFileOutIconFg: arcDarkWindow;
+historyFileOutIconFgSelected: arcDarkHighlight;
+historyFileOutRadialFg: arcDarkWindow;
+historyFileOutRadialFgSelected: arcDarkWindow;
+historyFileThumbIconFg: arcDarkWindow;
+historyFileThumbIconFgSelected: arcDarkHighlight;
+historyFileThumbRadialFg: arcDarkWindow;
+historyFileThumbRadialFgSelected: arcDarkWindow;
 msgWaveformInActive: arcDarkHighlight;
 msgWaveformInActiveSelected: arcDarkText;
 msgWaveformInInactive: arcDarkHighlightDark;
