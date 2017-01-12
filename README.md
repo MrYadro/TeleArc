@@ -12,8 +12,8 @@ Based on [Arc KDE][arc_kde]
 - `zip` for building
 
 # Installation
-1. Make sure you have latest [Telegram Desktop][telegram_desktop] (for now you have to use alpha version)
-2. Download archive from Releases
+1. Make sure you have latest [Telegram Desktop][telegram_desktop]
+2. Download archive from Releases (or come to our chat [@TeleArc][telegram_channel])
 3. Send archive to any chat, then click on it
 
 # Building
@@ -24,3 +24,4 @@ Based on [Arc KDE][arc_kde]
 [telearc_dark]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png
 [arc_gtk]: https://github.com/horst3180/arc-theme
 [arc_kde]: https://github.com/PapirusDevelopmentTeam/arc-kde
+[telegram_channel]: https://t.me/TeleArc
