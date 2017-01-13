@@ -383,6 +383,7 @@ overviewPhotoSelectOverlay: #40ace333;
 profileStatusFgOver: #7c99b2;
 profileVerifiedCheckBg: arcHighlight;
 profileVerifiedCheckFg: arcText;
+profileAdminStartFg: arcHighlight;
 notificationsBoxMonitorFg: arcText;
 notificationsBoxScreenBg: arcHighlight;
 notificationSampleUserpicFg: arcHighlight;

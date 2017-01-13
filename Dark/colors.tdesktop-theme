@@ -378,6 +378,7 @@ overviewPhotoSelectOverlay: #40ace333;
 profileStatusFgOver: #7c99b2;
 profileVerifiedCheckBg: arcDarkHighlight;
 profileVerifiedCheckFg: arcDarkText;
+profileAdminStartFg: arcDarkHighlight;
 notificationsBoxMonitorFg: arcDarkText;
 notificationsBoxScreenBg: arcDarkHighlight;
 notificationSampleUserpicFg: arcDarkHighlight;
