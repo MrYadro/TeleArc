@@ -122,7 +122,7 @@ titleButtonFgActiveOver: arcDarkText;
 titleButtonCloseBg: arcDarkTextDark;
 titleButtonCloseFg: arcDarkWindow;
 titleButtonCloseBgOver: arcDarkButtonCloseHighlight;
-titleButtonCloseFgOver: arcDarkText;
+titleButtonCloseFgOver: arcDarkWindow;
 titleButtonCloseBgActive: arcDarkButtonClose;
 titleButtonCloseFgActive: arcDarkWindow;
 titleButtonCloseBgActiveOver: arcDarkButtonCloseHighlight;
