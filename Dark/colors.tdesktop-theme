@@ -115,7 +115,7 @@ titleButtonBg: arcDarkWindow;
 titleButtonFg: arcDarkText;
 titleButtonBgOver: arcDarkButtonHighlight;
 titleButtonFgOver: arcDarkText;
-titleButtonBgActive: arcDarkHighlight;
+titleButtonBgActive: arcDarkWindow;
 titleButtonFgActive: arcDarkText;
 titleButtonBgActiveOver: arcDarkButtonHighlight;
 titleButtonFgActiveOver: arcDarkText;

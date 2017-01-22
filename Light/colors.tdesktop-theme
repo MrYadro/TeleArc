@@ -118,7 +118,7 @@ titleButtonBgOver: arcButtonHighlight;
 titleButtonFgOver: arcText;
 titleButtonBgActive: arcWindow;
 titleButtonFgActive: arcText;
-titleButtonBgActiveOver: arcText;
+titleButtonBgActiveOver: arcWindow;
 titleButtonFgActiveOver: arcText;
 titleButtonCloseBg: arcTextDark;
 titleButtonCloseFg: arcWindow;
