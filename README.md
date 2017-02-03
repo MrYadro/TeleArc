@@ -19,7 +19,7 @@ Based on [Arc KDE][arc_kde]
 3. Send archive to any chat, then click on it
 
 ## Building
-1. Run `make_light.sh` or `make_dark.sh`
+1. Run `make_light.sh`, `make_darker.sh` or `make_dark.sh`
 
 [telegram_desktop]: https://desktop.telegram.org
 [telearc_light]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png

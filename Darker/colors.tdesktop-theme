@@ -147,14 +147,10 @@ boxTitleFg: arcDarkerText;
 boxSearchBg: arcDarkerWindow;
 boxSearchCancelIconFg: arcDarkerText;
 boxSearchCancelIconFgOver: arcDarkerTextDark;
-boxTitleAdditionalFg: #ff0000;
+boxTitleAdditionalFg: arcDarkerText;
 boxTitleCloseFg: arcDarkerText;
 boxTitleCloseFgOver: arcDarkerTextDark;
-
-// ???
-membersAboutLimitFg: #ff0000;
-// ???
-
+membersAboutLimitFg: arcDarkerText;
 contactsBg: arcDarkerWindow;
 contactsBgOver: arcDarkerLight;
 contactsNameFg: arcDarkerText;
@@ -243,13 +239,9 @@ historyIconFgInverted: arcDarkerChatText;
 historySendingOutIconFg: arcDarkerHighlight;
 historySendingInIconFg: arcDarkerHighlight;
 historySendingInvertedIconFg: arcDarkerText;
-
-// ???
-historySystemBg: #ff0000;
-historySystemBgSelected: #ff0000;
-historySystemFg: #ff0000;
-// ???
-
+historySystemBg: arcDarkerWindow;
+historySystemBgSelected: arcDarkerWindow;
+historySystemFg: arcDarkerText;
 historyUnreadBarBg: arcDarkerWindow;
 historyUnreadBarBorder: arcDarkerWindow;
 historyUnreadBarFg: arcDarkerText;
