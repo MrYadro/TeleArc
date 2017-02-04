@@ -219,7 +219,7 @@ emojiPanBg: arcDarkerWindow;
 emojiPanCategories: arcDarkerWindow;
 emojiPanHeaderFg: arcDarkerText;
 emojiPanHeaderBg: arcDarkerWindow;
-stickerPanDeleteBg: #000000cc;
+stickerPanDeleteBg: arcDarkerWindow;
 stickerPanDeleteFg: arcDarkerText;
 stickerPreviewBg: #383C4Ab0;
 historyTextInFg: arcDarkerChatText;

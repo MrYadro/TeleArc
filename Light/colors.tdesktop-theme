@@ -218,7 +218,7 @@ emojiPanBg: arcWindow;
 emojiPanCategories: arcWindow;
 emojiPanHeaderFg: arcText;
 emojiPanHeaderBg: arcWindow;
-stickerPanDeleteBg: #000000cc;
+stickerPanDeleteBg: arcWindow;
 stickerPanDeleteFg: arcText;
 stickerPreviewBg: #ffffffb0;
 historyTextInFg: arcText;
