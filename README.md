@@ -4,11 +4,11 @@ Based on [Arc KDE][arc_kde]
 
 ## Preview
 ##### Light (Arc)
-![Light preview][telearc_light]
+<img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png" alt="Light preview" style="width:903;height:584">
 ##### Darker (Arc Darker)
-![Dark preview][telearc_darker]
+<img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/darker_preview.png" alt="Darker preview" style="width:903;height:584">
 ##### Dark (Arc Dark)
-![Dark preview][telearc_dark]
+<img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png" alt="Dark preview" style="width:903;height:584">
 
 ## Dependencies
 - `zip` for building
@@ -22,9 +22,6 @@ Based on [Arc KDE][arc_kde]
 1. Run `make_light.sh`, `make_darker.sh` or `make_dark.sh`
 
 [telegram_desktop]: https://desktop.telegram.org
-[telearc_light]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png
-[telearc_dark]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png
-[telearc_darker]: https://raw.githubusercontent.com/MrYadro/TeleArc/master/darker_preview.png
 [arc_gtk]: https://github.com/horst3180/arc-theme
 [arc_kde]: https://github.com/PapirusDevelopmentTeam/arc-kde
 [telegram_channel]: https://t.me/TeleArc
