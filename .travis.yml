@@ -12,4 +12,4 @@ deploy:
     - arc_darker.tdesktop-theme
     - arc_dark.tdesktop-theme
   on:
-    repo: MrYadro/TeleArc
+    tags: true
