@@ -3,8 +3,6 @@ script:
 - bash make_light.sh
 - bash make_darker.sh
 - bash make_dark.sh
-- bash pwd
-- bash echo $TRAVIS_BUILD_DIR
 deploy:
   provider: releases
   api_key:
