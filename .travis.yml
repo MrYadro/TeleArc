@@ -12,3 +12,5 @@ deploy:
     - "arc_darker.tdesktop-theme"
     - "arc_dark.tdesktop-theme"
   skip_cleanup: true
+  on:
+    tags: true
