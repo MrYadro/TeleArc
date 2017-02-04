@@ -1,0 +1,15 @@
+language: bash
+script:
+- bash make_light.sh
+- bash make_darker.sh
+- bash make_dark.sh
+deploy:
+  provider: releases
+  api_key:
+    secure: sJ/hwQtnLiPfomkJWPOrqnxpdQPxDAvxhKGPeRgBAVaigJzIGQQ/TpWLSO07I8nq2tmylpeUX7fVjltuqCNAMRu2R8lzyLL5FIgEor98YdnEw5FSNK4aDLehMxm4L+jX+QnqrujBGrxyDxSTeqHGsLNJtMsrWI8AuPAQ9h6dMTH5XVYELy0Rr8+EN1xjpmulHT6rpYN+hoeBfNp+nD9U60i80I1nG+Fdu79HZQlBc+yAPltdxwkUl2KmHnuXuP5AJ+I9z/YAutjJ7rEg+R1XAv2BKKsNa6AXsW9EpDo9HJ+qRSH96giVKRFZlNy+U1rebPys+HU67oao79V94SjlEw6/hBpjWKzRJXdwLYvhOMMyw0yKs3Qij5YQGKJ+2jKUpODvpnBNP9H7kVbAi562+Tkyts+M+F2LcwZ58Uu/o9ZBkX24Frrxgj3COHg9oCQGPi+vrr6OBUGzNed1lKETjkWT0G7xcmrQNSQpSRWa4b5rGlldJyQgmem8Q12ed7i5BKWhNMjv6IwM4BaZd51NW2KAXgUyIFsT+bY1Mx7S8jTlUW/bQIMHA2Ocyq032WTRT3PJKNYp67gEBKIeuIWjiXd0beNcj8TiXCcyfYJXi/LCz9+d3OEaWnx1JtK5hxt+X+q+Dj771zjozhHiNcfPuAmNZXBmberY1NufYpIDnaQ=
+  file:
+    - arc.tdesktop-theme
+    - arc_darker.tdesktop-theme
+    - arc_dark.tdesktop-theme
+  on:
+    repo: MrYadro/TeleArc
