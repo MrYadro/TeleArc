@@ -441,3 +441,4 @@ mediaviewPlaybackIconFgOver: arcHighlight;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
 notificationBg: arcWindow;
+convChatBackgroundColor: #ffffff;
