@@ -294,7 +294,7 @@ msgServiceBg: arcDarkWindow;
 msgServiceBgSelected: arcDarkHighlight;
 msgInReplyBarColor: arcDarkText;
 msgInReplyBarSelColor: arcDarkText;
-msgOutReplyBarColor: arcDarkHighlight;
+msgOutReplyBarColor: arcDarkText;
 msgOutReplyBarSelColor: arcDarkText;
 msgImgReplyBarColor: arcDarkText;
 msgInMonoFg: arcDarkLink;

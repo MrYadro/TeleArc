@@ -296,7 +296,7 @@ msgServiceBg: arcWindow;
 msgServiceBgSelected: arcHighlight;
 msgInReplyBarColor: arcText;
 msgInReplyBarSelColor: arcText;
-msgOutReplyBarColor: arcHighlight;
+msgOutReplyBarColor: arcText;
 msgOutReplyBarSelColor: arcText;
 msgImgReplyBarColor: arcText;
 msgInMonoFg: arcLink;
