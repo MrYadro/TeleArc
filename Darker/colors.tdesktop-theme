@@ -361,7 +361,7 @@ mediaInFg: arcDarkerHighlight;
 mediaInFgSelected: arcDarkerText;
 mediaOutFg: arcDarkerHighlight;
 mediaOutFgSelected: arcDarkerText;
-youtubePlayIconBg: arcDarkerText;
+youtubePlayIconBg: arcDarkerButton;
 youtubePlayIconFg: arcDarkerText;
 videoPlayIconBg: #0000007f;
 videoPlayIconFg: #ffffff;

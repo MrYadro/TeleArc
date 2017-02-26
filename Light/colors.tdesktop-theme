@@ -360,7 +360,7 @@ mediaInFg: arcHighlight;
 mediaInFgSelected: arcText;
 mediaOutFg: arcHighlight;
 mediaOutFgSelected: arcText;
-youtubePlayIconBg: arcText;
+youtubePlayIconBg: arcButton;
 youtubePlayIconFg: arcText;
 videoPlayIconBg: #0000007f;
 videoPlayIconFg: #ffffff;
