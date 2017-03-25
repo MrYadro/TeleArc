@@ -404,6 +404,8 @@ notificationSampleUserpicFg: arcDarkerHighlight;
 notificationSampleCloseFg: arcDarkerText;
 notificationSampleTextFg: arcDarkerText;
 notificationSampleNameFg: arcDarkerHighlight;
+changePhoneSimcardFrom: arcDarkerText;
+changePhoneSimcardTo: arcDarkerHighlight;
 mainMenuBg: arcDarkerWindow;
 mainMenuCoverBg: arcDarkerHighlight;
 mainMenuCoverFg: arcDarkerText;

@@ -5,8 +5,10 @@ Based on [Arc KDE][arc_kde]
 ## Preview
 ##### Light (Arc)
 <img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/light_preview.png" alt="Light preview" style="width:903;height:584">
+
 ##### Darker (Arc Darker)
 <img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/darker_preview.png" alt="Darker preview" style="width:903;height:584">
+
 ##### Dark (Arc Dark)
 <img src="https://raw.githubusercontent.com/MrYadro/TeleArc/master/dark_preview.png" alt="Dark preview" style="width:903;height:584">
 
