@@ -28,3 +28,4 @@ Based on [Arc KDE][arc_kde]
 [telegram_desktop]: https://desktop.telegram.org
 [arc_gtk]: https://github.com/horst3180/arc-theme
 [arc_kde]: https://github.com/PapirusDevelopmentTeam/arc-kde
+[telegram_channel]: https://t.me/TeleArc
