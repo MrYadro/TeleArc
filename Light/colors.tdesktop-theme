@@ -410,6 +410,8 @@ changePhoneSimcardTo: arcHighlight;
 mainMenuBg: arcWhite;
 mainMenuCoverBg: arcHighlight;
 mainMenuCoverFg: arcWhite;
+mainMenuCloudFg: arcText;
+mainMenuCloudBg: arcHighlight;
 mediaPlayerBg: arcWindow;
 mediaPlayerActiveFg: arcHighlight;
 mediaPlayerInactiveFg: arcTextDark;

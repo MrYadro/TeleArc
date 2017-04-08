@@ -409,6 +409,8 @@ changePhoneSimcardTo: arcDarkerHighlight;
 mainMenuBg: arcDarkerWindow;
 mainMenuCoverBg: arcDarkerHighlight;
 mainMenuCoverFg: arcDarkerText;
+mainMenuCloudFg: arcDarkerText;
+mainMenuCloudBg: arcDarkerHighlight;
 mediaPlayerBg: arcDarkerWindow;
 mediaPlayerActiveFg: arcDarkerHighlight;
 mediaPlayerInactiveFg: arcDarkerTextDark;
