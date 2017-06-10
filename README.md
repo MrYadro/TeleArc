@@ -23,7 +23,7 @@ Based on [Arc KDE][arc_kde]
 3. Send archive to any chat, then click on it
 
 ## Building
-1. Run `make_light.sh`, `make_darker.sh` or `make_dark.sh`
+1. Run `make light`, `make darker`, `make dark` or `make all`
 
 [telegram_desktop]: https://desktop.telegram.org
 [arc_gtk]: https://github.com/horst3180/arc-theme

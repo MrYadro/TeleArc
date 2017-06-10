@@ -351,6 +351,7 @@ historyFileThumbIconFg: arcDarkWindow;
 historyFileThumbIconFgSelected: arcDarkHighlight;
 historyFileThumbRadialFg: arcDarkWindow;
 historyFileThumbRadialFgSelected: arcDarkWindow;
+historyVideoMessageProgressFg: arcDarkText;
 msgWaveformInActive: arcDarkHighlight;
 msgWaveformInActiveSelected: arcDarkText;
 msgWaveformInInactive: arcDarkHighlightDark;
