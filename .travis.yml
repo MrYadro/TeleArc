@@ -1,6 +1,6 @@
 language: bash
 script:
-- bash make all
+- make all
 deploy:
   provider: releases
   api_key:
