@@ -415,7 +415,7 @@ profileStatusFgOver: arcDarkerText;
 profileVerifiedCheckBg: arcDarkerHighlight;
 profileVerifiedCheckFg: arcDarkerText;
 profileAdminStartFg: arcDarkerHighlight;
-profileAdminStarFgOver: arcDarkHighlight;
+profileAdminStarFgOver: arcDarkerHighlight;
 profileOtherAdminStarFg: arcDarkerTextDark;
 profileOtherAdminStarFgOver: arcDarkerText;
 notificationsBoxMonitorFg: arcDarkerText;
