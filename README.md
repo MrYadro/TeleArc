@@ -1,5 +1,6 @@
 # TeleArc - Arc theme for [Telegram Desktop][telegram_desktop]
-[![Telegram Chat](https://img.shields.io/badge/chat-on%20telegram-0d86d7.svg?style=flat)][telegram_channel]
+[![Telegram Chat](https://img.shields.io/badge/chat-on%20telegram-0d86d7.svg?style=flat)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrYadro%2FTeleArc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrYadro%2FTeleArc?ref=badge_shield)
+[telegram_channel]
 
 Telegram port of popular [Arc GTK][arc_gtk]  
 Based on [Arc KDE][arc_kde]
@@ -29,3 +30,7 @@ Based on [Arc KDE][arc_kde]
 [arc_gtk]: https://github.com/horst3180/arc-theme
 [arc_kde]: https://github.com/PapirusDevelopmentTeam/arc-kde
 [telegram_channel]: https://t.me/TeleArc
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMrYadro%2FTeleArc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMrYadro%2FTeleArc?ref=badge_large)
